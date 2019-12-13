@@ -5,10 +5,12 @@ import (
 	"path/filepath"
 )
 
+//目录形式的类路径
 type DirEntry struct {
 	absDir string
 }
 
+//定义newDirEntry形式的函数来模仿Java中的构造函数
 func newDirEntry(path string) *DirEntry {
 	absDir, err := filepath.Abs(path)
 	if err != nil {
