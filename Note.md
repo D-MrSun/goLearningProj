@@ -32,3 +32,4 @@ A --> F(Round)
 类路径想象成一个大的整体，它由启动类路径、扩展类路径和用户类路径三个小路径构成
 ### 23.2 DirEntry
 
+如何定义接口https://www.runoob.com/go/go-interfaces.html
