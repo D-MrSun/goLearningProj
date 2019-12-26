@@ -33,3 +33,5 @@ A --> F(Round)
 ### 23.2 DirEntry
 
 如何定义接口https://www.runoob.com/go/go-interfaces.html
+
+go在线书籍：https://draveness.me/golang/

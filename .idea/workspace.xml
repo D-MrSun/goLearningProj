@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="917bdc5d-ebdd-4cc3-a52a-52f3741f7c9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter02/classpath/entry_zip.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter02/classpath/classpath.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter02/classpath/entry_composite.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter02/classpath/entry_wildcard.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Note.md" beforeDir="false" afterPath="$PROJECT_DIR$/Note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter02/classpath/entry_dir.go" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/classpath/entry_dir.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter02/classpath/entry_zip.go" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/classpath/entry_zip.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter02/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/chapter02/main.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -106,6 +108,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init project" />
     <MESSAGE value="some change" />
-    <option name="LAST_COMMIT_MESSAGE" value="some change" />
+    <MESSAGE value="增加读取zip压缩文件中的class" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加读取zip压缩文件中的class" />
   </component>
 </project>
